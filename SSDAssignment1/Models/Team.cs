@@ -20,5 +20,6 @@ namespace SSDAssignment1.Models
 
         public DateTime? EstablishedDate { get; set; }
 
+
     }
 }

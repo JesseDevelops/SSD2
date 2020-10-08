@@ -10,5 +10,6 @@ namespace SSDAssignment1.Models
         public string AdminPwd { get; set; }
         public string MemberPwd { get; set; }
     }
+
 }
 
